@@ -20,5 +20,5 @@
     "ads_recycler_view_grid": false,
     "ads_recycler_view_grid_column": 2,  
     "ads_interstitial_type": "Interstitial",
-	"currency_link":"https://api.frankfurter.dev/v2/"
+	"currency_link":"https://api.frankfurter.dev/v2"
 }
